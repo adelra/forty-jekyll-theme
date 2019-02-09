@@ -2,7 +2,7 @@
 title: Phone Labs
 subtitle: run by robots
 email: rahimi.adel@gmail.com
-description: A whole medical lab on your phone!
+description: A medical lab on your phone!
 baseurl: "/ml" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
