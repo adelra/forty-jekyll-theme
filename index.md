@@ -19,7 +19,6 @@ Well, we are as well. So we created this app. A lab inside your phone. Simply ta
 ## How can I use it?
 For now, our robots are just learning, attending med school day and night. Soon they will graduate and be available. In case you are eager to know when they are ready or have any other enquiries, use the contact form below. Keep in mind that if you sign-up our robots will be more encouraged to study and get there sooner. So enter your contact details. We promise to keep your data in a safe place.
 
-![Robots_learning](https://github.com/adelra/ml/blob/master/assets/images/robot.png?raw=true)
 
 ## Help Robots
 Seriously, put your name and email below, we will notify you once our product is ready.
