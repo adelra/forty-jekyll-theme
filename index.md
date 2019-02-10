@@ -26,7 +26,7 @@ Our robots pretty much can do anything doctors can. However, for the time being 
 * Explain your lab results, your CT scans and your X-rays. 🧠
 * Warn you about health outbreaks in your area and how to be careful 🗺
 * Robots are your friend, they are a good listener 🎧
-* Robots are good at taking care of stuff. They can formulate your diets and remind you to take your pills etc. 🤖
+* Robots are good at taking care of stuff. They can formulate your diets, remind you to take your pills, and remind you about health issues you should be aware of. 🤖
 
 
 ## How can I use it?
