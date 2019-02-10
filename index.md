@@ -22,10 +22,10 @@ Our robots pretty much can do anything doctors can. However, for the time being 
 
 * You can send them images of your skin problems and they will tell what is it and how bad is it. 📄
 * If you were suspicous of skin cancer—perish the thought—robots can tell you much about it. 📃
-* Tell you so much about your health by looking at you 🔮
+* Tell you so much about your health by looking at you. 🔮
 * Explain your lab results, your CT scans and your X-rays. 🧠
-* Warn you about health outbreaks in your area and how to be careful 🗺
-* Robots are your friend, they are a good listener 🎧
+* Warn you about health outbreaks in your area and how to be careful. 🗺
+* Robots are your friend, they are a good listener. 🎧
 * Robots are good at taking care of stuff. They can formulate your diets, remind you to take your pills, and remind you about health issues you should be aware of. 🤖
 
 
